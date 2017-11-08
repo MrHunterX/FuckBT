@@ -1,8 +1,4 @@
 # FuckBot V1
-Mastah Of Kicker :v
-
-Catatan : 
-- Ini Bot paling kampret yang pernah saya buat :v
 
 # DANGER DANGER
 Jika akun BOT diundang oleh orang lain, maka si bot akan langsung menerima undangan grup tersebut dan Bot akan langsung meng-KICK semua member yang ada di grup tersebut :D KAMPRET BUKAN?
